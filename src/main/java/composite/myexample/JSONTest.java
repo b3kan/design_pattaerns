@@ -1,4 +1,4 @@
-package main.java.composite.json;
+package main.java.composite.myexample;
 
 import java.util.Arrays;
 
