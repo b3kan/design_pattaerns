@@ -1,5 +1,7 @@
 package main.java.observer;
 
+import main.java.observer.myexample.Observer;
+
 public class Test {
 
     public static void main(String... args){

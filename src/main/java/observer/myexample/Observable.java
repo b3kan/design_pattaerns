@@ -1,4 +1,4 @@
-package main.java.observer;
+package main.java.observer.myexample;
 
 public interface Observable<K> {
 
